@@ -6,3 +6,6 @@ C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.Properties.Re
 C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
 C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.exe
 C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.pdb
+G:\jnahuel\BranchMerge\Prueba\Prueba\bin\Debug\Prueba.exe.config
+G:\jnahuel\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.exe
+G:\jnahuel\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.pdb
