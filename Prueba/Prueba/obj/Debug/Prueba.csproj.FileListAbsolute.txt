@@ -1,0 +1,8 @@
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Nahuel\Desktop\BranchMerge\Prueba\Prueba\obj\Debug\Prueba.pdb
